@@ -1,0 +1,19 @@
+{
+    "name": "classic empty",
+    "map": [
+    "xxxxxxxxxxxxxxxxxxxx",
+    "x##################x",
+    "x##################x",
+    "x##################x",
+    "x##################x",
+    "x##################x",
+    "x##################x",
+    "xxxxxxxxxxxxxxxxxxxx"
+    ],
+    "keys": {
+        "x": "def_wall",
+        "#": "def_floor"
+    },
+    "spawnnodes": [[3,3],[11,3]],
+    "roomtype": 0
+}
